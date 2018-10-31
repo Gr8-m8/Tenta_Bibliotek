@@ -1,0 +1,17 @@
+Groot}I am Groot}True
+Man}I am Human}True
+Totalynotrobot}I am also Human}True
+Notadad}Yeetus that fetus}True
+Isaac{Asimov}I, Robot}True
+Isaac{Asimov}Founation}True
+Longwordman{Verysosuper}Flaggstångspoleringsmankingmekanikersbetalningsorginisationorganisatörarbetare}True
+Göran}Han hör han}True
+AAAAAAAAAAAAAAAAAAA}AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA}True
+Jan{Lindblad}Network Management with YANG}False
+Test{Test{Test}Test}False
+Janne}ärlighet varar längst}False
+Test}Test}True
+Janne Lindblom{Pelle Erkeson}Flipp o flopp}True
+x}x}True
+åäö}ÅÄÖåäö}False
+Janne L{Pelle E}Vår kokbok}True

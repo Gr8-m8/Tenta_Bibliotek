@@ -1,0 +1,11 @@
+C:\Users\17mali\source\repos\Tenta_Bibliotek\Tenta_Bibliotek\bin\Debug\netcoreapp2.1\Tenta_Bibliotek.deps.json
+C:\Users\17mali\source\repos\Tenta_Bibliotek\Tenta_Bibliotek\bin\Debug\netcoreapp2.1\Tenta_Bibliotek.runtimeconfig.json
+C:\Users\17mali\source\repos\Tenta_Bibliotek\Tenta_Bibliotek\bin\Debug\netcoreapp2.1\Tenta_Bibliotek.runtimeconfig.dev.json
+C:\Users\17mali\source\repos\Tenta_Bibliotek\Tenta_Bibliotek\bin\Debug\netcoreapp2.1\Tenta_Bibliotek.dll
+C:\Users\17mali\source\repos\Tenta_Bibliotek\Tenta_Bibliotek\bin\Debug\netcoreapp2.1\Tenta_Bibliotek.pdb
+C:\Users\17mali\source\repos\Tenta_Bibliotek\Tenta_Bibliotek\obj\Debug\netcoreapp2.1\Tenta_Bibliotek.csprojAssemblyReference.cache
+C:\Users\17mali\source\repos\Tenta_Bibliotek\Tenta_Bibliotek\obj\Debug\netcoreapp2.1\Tenta_Bibliotek.csproj.CoreCompileInputs.cache
+C:\Users\17mali\source\repos\Tenta_Bibliotek\Tenta_Bibliotek\obj\Debug\netcoreapp2.1\Tenta_Bibliotek.AssemblyInfoInputs.cache
+C:\Users\17mali\source\repos\Tenta_Bibliotek\Tenta_Bibliotek\obj\Debug\netcoreapp2.1\Tenta_Bibliotek.AssemblyInfo.cs
+C:\Users\17mali\source\repos\Tenta_Bibliotek\Tenta_Bibliotek\obj\Debug\netcoreapp2.1\Tenta_Bibliotek.dll
+C:\Users\17mali\source\repos\Tenta_Bibliotek\Tenta_Bibliotek\obj\Debug\netcoreapp2.1\Tenta_Bibliotek.pdb

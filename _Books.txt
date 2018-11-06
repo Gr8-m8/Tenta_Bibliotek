@@ -7,11 +7,11 @@ Isaac{Asimov}Founation}True
 Longwordman{Verysosuper}Flaggstångspoleringsmankingmekanikersbetalningsorginisationorganisatörarbetare}True
 Göran}Han hör han}True
 AAAAAAAAAAAAAAAAAAA}AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA}True
-Jan{Lindblad}Network Management with YANG}False
-Test{Test{Test}Test}False
-Janne}ärlighet varar längst}False
+Jan{Lindblad}Network Management with YANG}True
+Test{Test{Test}Test}True
+Janne}ärlighet varar längst}True
 Test}Test}True
 Janne Lindblom{Pelle Erkeson}Flipp o flopp}True
 x}x}True
-åäö}ÅÄÖåäö}False
+åäö}ÅÄÖåäö}True
 Janne L{Pelle E}Vår kokbok}True
